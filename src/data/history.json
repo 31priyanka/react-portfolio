@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Software Developer",
+    "organisation": "Arcgate",
+    "startDate": "June 2023",
+    "endDate": "Present, (Udaipur)",
+    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "imageSrc": "history/arcgate.png"
+  },
+  {
+    "role": "Front-end Developer",
+    "organisation": "Kantag Solution Pvt. Limited",
+    "startDate": "May 2023",
+    "endDate": "June 2023, (Gurugram)",
+    "experiences": ["Worked ", "Designed the control panel"],
+    "imageSrc": "history/kantag.jpeg"
+  },
+  {
+    "role": "Internship as Software Intern",
+    "organisation": "FBSPL",
+    "startDate": "Apr 2022",
+    "endDate": "Jun 2022, (Udaipur)",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/fbspl.jpeg"
+  }
+]
